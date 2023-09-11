@@ -1,0 +1,3 @@
+FPX V2021 Component Libfile
+Package Type	Footprint Data	Pin Numbers	Footprint Name	Physical Description	Case Code	Manufacturer	Part Number	Logical Description	Mounting Type	Datasheet	Part Status	Footprint Date	Symbol Name	Pin Quantity	Value	Tolerance	Voltage	STEP File Name	Comments
+101	cc="448000 28 0 0" cd="100335 +5.08 0.36,0.56 0.2,0.38 +35.56 7.9 +7.5 2.54"	1-28	DIP790W46P254L3556H508Q28	DIP, 7.90 mm lead span, 2.54 mm pitch; 28 pin, 35.56 mm L X 7.50 mm W X 5.08 mm H body					Through-hole		Active	9/11/2023 11:53:00 AM		28				DIP790W46P254L3556H508Q28	
